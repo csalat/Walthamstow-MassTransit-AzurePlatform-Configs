@@ -1,1 +1,1 @@
-# Walthamstow-MassTransit-AzurePlatform.Configs
+# Walthamstow-MassTransit-AzurePlatform-Configs
