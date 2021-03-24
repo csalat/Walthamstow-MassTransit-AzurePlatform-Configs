@@ -6,7 +6,7 @@
     <Title>Walthamstow.MassTransit.AzurePlatform.Configs</Title>
     <Description>Config files for Walthamstow.MassTransit.AzurePlatform</Description>
     <PackageProjectUrl>https://github.com/csalat/Walthamstow-MassTransit-AzurePlatform-Configs/</PackageProjectUrl>
-    <PackageVersion>7.1.7</PackageVersion>
+    <PackageVersion>3.1.11</PackageVersion>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <RepositoryUrl>https://github.com/csalat/Walthamstow-MassTransit-AzurePlatform-Configs/</RepositoryUrl>
   </PropertyGroup>
@@ -17,9 +17,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-     <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="5.0.0" />
-     <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="5.0.0" />
-     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
-     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+     <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="3.1.11" />
+     <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="3.1.11" />
+     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.11" />
+     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.11" />
    </ItemGroup>
 </Project>
