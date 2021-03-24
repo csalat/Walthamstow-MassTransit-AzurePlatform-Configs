@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.Walthamstow.MassTransit.AzurePlatform.Configs.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../:\Walthamstow-MassTransit-AzurePlatform.Configs\.idea\.idea.Walthamstow.MassTransit.AzurePlatform.Configs\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
